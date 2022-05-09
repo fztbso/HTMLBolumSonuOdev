@@ -1,3 +1,3 @@
-patika.dev için oluşturduğum bölüm sonu projesi
+patika.dev için oluşturduğum bölüm sonu projesi!
 
 -- front end giriş seviye --
